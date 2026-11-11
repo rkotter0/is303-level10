@@ -31,7 +31,7 @@ College Football Results for 2020
 
 10 or more wins:
   Alabama
-  Coastal Carolina
   BYU
+  Coastal Carolina
   ...
 ```
